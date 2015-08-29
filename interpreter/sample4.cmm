@@ -1,0 +1,15 @@
+/* this is the 
+second sample file
+it can check for the invalid token*/
+[] y[5];
+x = 1 + 2 * 3;
+hehehe y[5] = x+5;
+if(y[0]<x||y[0]==x)
+z = 15;
+else
+q = 11+1;
+a = 3 - 1;
+while(a<5)
+a = a +1;
+b = 10
+write << b;
